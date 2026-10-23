@@ -1,5 +1,5 @@
 {
-  "name": "openimis-mobile-testing",
+  "name": "insurance-healthcare-openimis-mobile-testing",
   "version": "1.0.0",
   "description": "Mobile end-to-end automation framework for openIMIS — iOS (iPhone 17) + Android (Samsung Galaxy S25) via WebdriverIO + Appium",
   "private": true,
